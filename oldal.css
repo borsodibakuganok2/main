@@ -1,9 +1,33 @@
-header{
-    background-image: url("matehatter.jpg");
+.zsomborheader{
+    background-image: url("mogyihaz.JPG");
+    height: 400px;
+    opacity: 70%;
+    background-size: cover;
+    background-position: 0% 40%;
+    text-align: center;
+}
+.kristofheader{
+    background-image: url("kristofkep1.jpg");
     height: 400px;
     opacity: 70%;
     background-size: cover;
     background-position: 0% 50%;
+    text-align: center;
+}
+.hunorheader{
+    background-image: url("eger.jpg");
+    height: 400px;
+    opacity: 70%;
+    background-size: cover;
+    background-position: 0% 50%;
+    text-align: center;
+}
+.mateheader{
+    background-image: url("matehatter.jpg");
+    height: 400px;
+    opacity: 70%;
+    background-size: cover;
+    background-position: 0% 60%;
     text-align: center;
 }
 h1{
